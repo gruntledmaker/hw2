@@ -55,7 +55,7 @@ function draw() {
   
   //ball 1 grow
   if (ballX == ballX2) {
-    ballA = ballA + 3;
+    ballA = ballA + 7;
   }
   
   //ball 2 color change
